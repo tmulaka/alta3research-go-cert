@@ -18,4 +18,4 @@ on a live system.
 
 ## Authors
 
-* **Tara J Mulakaluri**
+* **Tara**
